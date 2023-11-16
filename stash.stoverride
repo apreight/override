@@ -1,0 +1,29 @@
+name: 本地
+desc: 本地覆盖
+
+rules:
+  - DOMAIN-SUFFIX,docker.com,🚀 节点选择
+  - DOMAIN-KEYWORD,unsplash,🚀 节点选择
+  - DOMAIN-KEYWORD,openai,🚀 节点选择
+  - DOMAIN-SUFFIX,mo.fish,🚀 节点选择
+  - DOMAIN-SUFFIX,v2ex.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ports.ubuntu.com,🚀 节点选择
+  - DOMAIN-KEYWORD,parsec,DIRECT
+  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
+  - DOMAIN-SUFFIX,auth0.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sentry.io,🚀 节点选择
+  - DOMAIN-SUFFIX,google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,googleapis.com,🚀 节点选择
+  - DOMAIN-SUFFIX,hcaptcha.com,🚀 节点选择
+  - DOMAIN-SUFFIX,recaptcha.net,🚀 节点选择
+  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt2.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt1.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gvt3.com,🚀 节点选择
+  - DOMAIN-SUFFIX,msftconnecttest.com,🚀 节点选择
+  - DOMAIN-SUFFIX,live.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sfx.ms,🚀 节点选择
+  - DOMAIN-SUFFIX,microsoft.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
+  - DOMAIN-SUFFIX,imgur.com,🚀 节点选择
